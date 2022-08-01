@@ -23,7 +23,7 @@ the Cisco NetAcad site  with a valid NetAcad account.
 
 ## Architecture Overview
 
-![](architecture.png)
+![] (architecture.png)
 
 
 ## Methodology
