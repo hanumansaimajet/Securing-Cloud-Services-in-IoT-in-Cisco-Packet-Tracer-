@@ -22,7 +22,6 @@ This tool is free, works on major operating systems, and can be downloaded from
 the Cisco NetAcad site  with a valid NetAcad account.
 
 ## Architecture Overview
-
 ![](architecture.png)
 
 
